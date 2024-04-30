@@ -3,8 +3,8 @@
 1. Charlie Kim [@charles8888](https://github.com/charles8888)
 2. Gwen Wentworth [@gaw63800](https://github.com/gaw63800)
 3. Caroline Cooper [@carolinetcooper6](https://github.com/carolinetcooper6)
-4. Kishen Patel [@hubahakhtar](https://github.com/supersomeone03)
-5. Hubar Akhtar [@supersomeone03](https://github.com/hubahakhtar)
+4. Kishen Patel [@supersomeone03](https://github.com/supersomeone03)
+5. Hubah Akhtar [@hubahakhtar](https://github.com/hubahakhtar)
 
 # Data Source:
 [Data Set: Youth Tobacco Survey](https://catalog.data.gov/dataset/youth-tobacco-survey-yts-data)
